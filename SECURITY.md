@@ -2,20 +2,26 @@
 
 ## Supported Versions
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+Supported versiosn consist of only the most up-to-date codebase. If
+you are experiencing an issue with any macro, add-in, or stand-alone 
+application, please update to the most current version and confirm
+that the error exists there.
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+| 1.x.x   | :white_check_mark: |
+| 0.x.x   | :x:                |
 
 ## Reporting a Vulnerability
 
-Use this section to tell people how to report a vulnerability.
+Please include in your error report
+* date of the issue (mm/dd/yyy)
+* current solidworks version (if using 3DExperience, please mention this here as well)
+* solidworks file type where the error occured (.asm, .prt, .slddrw, etc)
+* steps to reproduce the error.
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+
+Errors can be reported to caleb.capps@gentex.com and should be handled within 5-10
+business days if accepted. If the error was declined, expect an email within 2-3 business 
+days explaining why the error could not be accepted (this is often due to an inability to 
+reproduce the error on our end).
