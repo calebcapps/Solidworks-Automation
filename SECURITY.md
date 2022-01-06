@@ -21,7 +21,7 @@ Please include in your error report
 * steps to reproduce the error.
 
 
-Errors can be reported to caleb.capps@gentex.com and should be handled within 5-10
+Errors can be reported to calebcapps99@gmail.com and should be handled within 5-10
 business days if accepted. If the error was declined, expect an email within 2-3 business 
 days explaining why the error could not be accepted (this is often due to an inability to 
 reproduce the error on our end).
