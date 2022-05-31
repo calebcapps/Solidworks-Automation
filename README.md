@@ -1,3 +1,2 @@
-# LabelWizard
-
-Creates an inscribed label in Solidworks using the cut-extrude feature and a 45-degree draft angle
+# Solidworks Automation
+ This repository is used for creating Solidworks macros, add-ins, and standalone applications for automating common Solidworks tasks
