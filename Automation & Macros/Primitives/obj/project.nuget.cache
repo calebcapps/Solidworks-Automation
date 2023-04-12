@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "qPzIWqdNHdAl78NVs1lP0UzFszVDQCHMbpKOBVhQ4G6tc9d6Rc9QJpq/4vGMhjgW42VDOTN9zg055N2CEwvSMQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Caleb.Capps\\source\\repos\\calebcapps\\Gentex-Private\\Primitives\\Primitives.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Caleb.Capps\\.nuget\\packages\\codestack.swex.addin\\0.8.1\\codestack.swex.addin.0.8.1.nupkg.sha512",
+    "C:\\Users\\Caleb.Capps\\.nuget\\packages\\codestack.swex.common\\0.9.9\\codestack.swex.common.0.9.9.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'CodeStack.SwEx.AddIn 0.8.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "CodeStack.SwEx.AddIn",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'CodeStack.SwEx.Common 0.9.9' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "CodeStack.SwEx.Common",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+C:\Users\Caleb.Capps\source\repos\calebcapps\Gentex-Private\AddinSample\bin\Debug\AddinSample.dll
+C:\Users\Caleb.Capps\source\repos\calebcapps\Gentex-Private\AddinSample\obj\Debug\AddinSample.dll
+C:\Users\Caleb.Capps\source\repos\calebcapps\Gentex-Private\AddinSample\bin\Debug\AddinSample.pdb
+C:\Users\Caleb.Capps\source\repos\calebcapps\Gentex-Private\AddinSample\bin\Debug\SolidWorks.Interop.sldworks.dll
+C:\Users\Caleb.Capps\source\repos\calebcapps\Gentex-Private\AddinSample\bin\Debug\SolidWorks.Interop.swconst.dll
+C:\Users\Caleb.Capps\source\repos\calebcapps\Gentex-Private\AddinSample\bin\Debug\SolidWorks.Interop.swpublished.dll
+C:\Users\Caleb.Capps\source\repos\calebcapps\Gentex-Private\AddinSample\bin\Debug\Xarial.XCad.dll
+C:\Users\Caleb.Capps\source\repos\calebcapps\Gentex-Private\AddinSample\bin\Debug\Xarial.XCad.SolidWorks.dll
+C:\Users\Caleb.Capps\source\repos\calebcapps\Gentex-Private\AddinSample\bin\Debug\Xarial.XCad.Toolkit.dll
+C:\Users\Caleb.Capps\source\repos\calebcapps\Gentex-Private\AddinSample\bin\Debug\Xarial.XCad.xml
+C:\Users\Caleb.Capps\source\repos\calebcapps\Gentex-Private\AddinSample\bin\Debug\Xarial.XCad.SolidWorks.xml
+C:\Users\Caleb.Capps\source\repos\calebcapps\Gentex-Private\AddinSample\bin\Debug\Xarial.XCad.Toolkit.xml
+C:\Users\Caleb.Capps\source\repos\calebcapps\Gentex-Private\AddinSample\obj\Debug\AddinSample.csproj.AssemblyReference.cache
+C:\Users\Caleb.Capps\source\repos\calebcapps\Gentex-Private\AddinSample\obj\Debug\AddinSample.csproj.CoreCompileInputs.cache
+C:\Users\Caleb.Capps\source\repos\calebcapps\Gentex-Private\AddinSample\obj\Debug\AddinSample.csproj.CopyComplete
+C:\Users\Caleb.Capps\source\repos\calebcapps\Gentex-Private\AddinSample\obj\Debug\AddinSample.pdb
+C:\Users\Caleb.Capps\source\repos\calebcapps\Gentex-Private\AddinSample\bin\Debug\AddinSample.tlb

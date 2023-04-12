@@ -1,0 +1,159 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "CodeStack.SwEx.AddIn/0.8.1": {
+        "type": "package",
+        "dependencies": {
+          "CodeStack.SwEx.Common": "0.9.9"
+        },
+        "compile": {
+          "lib/net40/CodeStack.SwEx.AddIn.dll": {}
+        },
+        "runtime": {
+          "lib/net40/CodeStack.SwEx.AddIn.dll": {}
+        }
+      },
+      "CodeStack.SwEx.Common/0.9.9": {
+        "type": "package",
+        "compile": {
+          "lib/net40/CodeStack.SwEx.Common.dll": {},
+          "lib/net40/SolidWorks.Interop.sldworks.dll": {},
+          "lib/net40/SolidWorks.Interop.swconst.dll": {},
+          "lib/net40/SolidWorks.Interop.swpublished.dll": {},
+          "lib/net40/SolidWorksTools.dll": {}
+        },
+        "runtime": {
+          "lib/net40/CodeStack.SwEx.Common.dll": {},
+          "lib/net40/SolidWorks.Interop.sldworks.dll": {},
+          "lib/net40/SolidWorks.Interop.swconst.dll": {},
+          "lib/net40/SolidWorks.Interop.swpublished.dll": {},
+          "lib/net40/SolidWorksTools.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CodeStack.SwEx.AddIn/0.8.1": {
+      "sha512": "p0KLdHaxtQaGTZtBkFBHpDFpcdvG/BBgCrYvxbTArHN5P6xatVT3qGFU/a8PVwSaREhYV0iyZElvp4k6bJ34Kg==",
+      "type": "package",
+      "path": "codestack.swex.addin/0.8.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "codestack.swex.addin.0.8.1.nupkg.sha512",
+        "codestack.swex.addin.nuspec",
+        "lib/net40/CodeStack.SwEx.AddIn.dll",
+        "lib/net40/CodeStack.SwEx.AddIn.xml",
+        "readme.txt"
+      ]
+    },
+    "CodeStack.SwEx.Common/0.9.9": {
+      "sha512": "Cw5eDiuynjtK6TJeBn/PvU4JqUAYejFwi4n4EFsvwS2ReIJWZe0upqz4WPZ9cWXg2/4pURH4DFbvIbWNBhGGmA==",
+      "type": "package",
+      "path": "codestack.swex.common/0.9.9",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "codestack.swex.common.0.9.9.nupkg.sha512",
+        "codestack.swex.common.nuspec",
+        "lib/net40/CodeStack.SwEx.Common.dll",
+        "lib/net40/CodeStack.SwEx.Common.xml",
+        "lib/net40/SolidWorks.Interop.sldworks.dll",
+        "lib/net40/SolidWorks.Interop.swconst.dll",
+        "lib/net40/SolidWorks.Interop.swpublished.dll",
+        "lib/net40/SolidWorksTools.dll"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "CodeStack.SwEx.AddIn >= 0.8.1"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Caleb.Capps\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Caleb.Capps\\source\\repos\\calebcapps\\Gentex-Private\\Primitives\\Primitives.csproj",
+      "projectName": "Primitives",
+      "projectPath": "C:\\Users\\Caleb.Capps\\source\\repos\\calebcapps\\Gentex-Private\\Primitives\\Primitives.csproj",
+      "packagesPath": "C:\\Users\\Caleb.Capps\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Caleb.Capps\\source\\repos\\calebcapps\\Gentex-Private\\Primitives\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Caleb.Capps\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "CodeStack.SwEx.AddIn": {
+            "target": "Package",
+            "version": "[0.8.1, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'CodeStack.SwEx.AddIn 0.8.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "CodeStack.SwEx.AddIn",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'CodeStack.SwEx.Common 0.9.9' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "CodeStack.SwEx.Common",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

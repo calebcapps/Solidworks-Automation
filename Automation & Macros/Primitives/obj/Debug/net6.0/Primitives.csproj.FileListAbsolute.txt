@@ -1,0 +1,11 @@
+C:\Users\Caleb.Capps\source\repos\calebcapps\Gentex-Private\Primitives\obj\Debug\net6.0\Primitives.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caleb.Capps\source\repos\calebcapps\Gentex-Private\Primitives\obj\Debug\net6.0\Primitives.AssemblyInfoInputs.cache
+C:\Users\Caleb.Capps\source\repos\calebcapps\Gentex-Private\Primitives\obj\Debug\net6.0\Primitives.AssemblyInfo.cs
+C:\Users\Caleb.Capps\source\repos\calebcapps\Gentex-Private\Primitives\obj\Debug\net6.0\Primitives.csproj.CoreCompileInputs.cache
+C:\Users\Caleb.Capps\source\repos\calebcapps\Gentex-Private\Primitives\bin\Debug\net6.0\Primitives.deps.json
+C:\Users\Caleb.Capps\source\repos\calebcapps\Gentex-Private\Primitives\bin\Debug\net6.0\Primitives.dll
+C:\Users\Caleb.Capps\source\repos\calebcapps\Gentex-Private\Primitives\bin\Debug\net6.0\ref\Primitives.dll
+C:\Users\Caleb.Capps\source\repos\calebcapps\Gentex-Private\Primitives\bin\Debug\net6.0\Primitives.pdb
+C:\Users\Caleb.Capps\source\repos\calebcapps\Gentex-Private\Primitives\obj\Debug\net6.0\Primitives.dll
+C:\Users\Caleb.Capps\source\repos\calebcapps\Gentex-Private\Primitives\obj\Debug\net6.0\ref\Primitives.dll
+C:\Users\Caleb.Capps\source\repos\calebcapps\Gentex-Private\Primitives\obj\Debug\net6.0\Primitives.pdb

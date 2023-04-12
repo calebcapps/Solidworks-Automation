@@ -1,0 +1,75 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Primitives/1.0.0": {
+        "dependencies": {
+          "CodeStack.SwEx.AddIn": "0.8.1"
+        },
+        "runtime": {
+          "Primitives.dll": {}
+        }
+      },
+      "CodeStack.SwEx.AddIn/0.8.1": {
+        "dependencies": {
+          "CodeStack.SwEx.Common": "0.9.9"
+        },
+        "runtime": {
+          "lib/net40/CodeStack.SwEx.AddIn.dll": {
+            "assemblyVersion": "0.8.1.0",
+            "fileVersion": "0.8.1.0"
+          }
+        }
+      },
+      "CodeStack.SwEx.Common/0.9.9": {
+        "runtime": {
+          "lib/net40/CodeStack.SwEx.Common.dll": {
+            "assemblyVersion": "0.9.9.0",
+            "fileVersion": "0.9.9.0"
+          },
+          "lib/net40/SolidWorks.Interop.sldworks.dll": {
+            "assemblyVersion": "27.1.0.72",
+            "fileVersion": "27.1.0.72"
+          },
+          "lib/net40/SolidWorks.Interop.swconst.dll": {
+            "assemblyVersion": "27.1.0.72",
+            "fileVersion": "27.1.0.72"
+          },
+          "lib/net40/SolidWorks.Interop.swpublished.dll": {
+            "assemblyVersion": "27.1.0.72",
+            "fileVersion": "27.1.0.72"
+          },
+          "lib/net40/SolidWorksTools.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Primitives/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CodeStack.SwEx.AddIn/0.8.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-p0KLdHaxtQaGTZtBkFBHpDFpcdvG/BBgCrYvxbTArHN5P6xatVT3qGFU/a8PVwSaREhYV0iyZElvp4k6bJ34Kg==",
+      "path": "codestack.swex.addin/0.8.1",
+      "hashPath": "codestack.swex.addin.0.8.1.nupkg.sha512"
+    },
+    "CodeStack.SwEx.Common/0.9.9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Cw5eDiuynjtK6TJeBn/PvU4JqUAYejFwi4n4EFsvwS2ReIJWZe0upqz4WPZ9cWXg2/4pURH4DFbvIbWNBhGGmA==",
+      "path": "codestack.swex.common/0.9.9",
+      "hashPath": "codestack.swex.common.0.9.9.nupkg.sha512"
+    }
+  }
+}

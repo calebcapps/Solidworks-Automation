@@ -1,0 +1,16 @@
+C:\Users\Caleb.Capps\source\repos\calebcapps\Gentex-Private\xCAD_PanelWizard\bin\Debug\xCAD_PanelWizard.dll
+C:\Users\Caleb.Capps\source\repos\calebcapps\Gentex-Private\xCAD_PanelWizard\bin\Debug\xCAD_PanelWizard.pdb
+C:\Users\Caleb.Capps\source\repos\calebcapps\Gentex-Private\xCAD_PanelWizard\bin\Debug\SolidWorks.Interop.sldworks.dll
+C:\Users\Caleb.Capps\source\repos\calebcapps\Gentex-Private\xCAD_PanelWizard\bin\Debug\SolidWorks.Interop.swconst.dll
+C:\Users\Caleb.Capps\source\repos\calebcapps\Gentex-Private\xCAD_PanelWizard\bin\Debug\SolidWorks.Interop.swpublished.dll
+C:\Users\Caleb.Capps\source\repos\calebcapps\Gentex-Private\xCAD_PanelWizard\bin\Debug\Xarial.XCad.dll
+C:\Users\Caleb.Capps\source\repos\calebcapps\Gentex-Private\xCAD_PanelWizard\bin\Debug\Xarial.XCad.SolidWorks.dll
+C:\Users\Caleb.Capps\source\repos\calebcapps\Gentex-Private\xCAD_PanelWizard\bin\Debug\Xarial.XCad.Toolkit.dll
+C:\Users\Caleb.Capps\source\repos\calebcapps\Gentex-Private\xCAD_PanelWizard\bin\Debug\Xarial.XCad.xml
+C:\Users\Caleb.Capps\source\repos\calebcapps\Gentex-Private\xCAD_PanelWizard\bin\Debug\Xarial.XCad.SolidWorks.xml
+C:\Users\Caleb.Capps\source\repos\calebcapps\Gentex-Private\xCAD_PanelWizard\bin\Debug\Xarial.XCad.Toolkit.xml
+C:\Users\Caleb.Capps\source\repos\calebcapps\Gentex-Private\xCAD_PanelWizard\obj\Debug\xCAD_PMPageExample.csproj.AssemblyReference.cache
+C:\Users\Caleb.Capps\source\repos\calebcapps\Gentex-Private\xCAD_PanelWizard\obj\Debug\xCAD_PMPageExample.csproj.CoreCompileInputs.cache
+C:\Users\Caleb.Capps\source\repos\calebcapps\Gentex-Private\xCAD_PanelWizard\obj\Debug\xCAD_PMPageExample.csproj.CopyComplete
+C:\Users\Caleb.Capps\source\repos\calebcapps\Gentex-Private\xCAD_PanelWizard\obj\Debug\xCAD_PanelWizard.dll
+C:\Users\Caleb.Capps\source\repos\calebcapps\Gentex-Private\xCAD_PanelWizard\obj\Debug\xCAD_PanelWizard.pdb
